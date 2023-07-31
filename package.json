@@ -10,7 +10,8 @@
   "author": "Hafizh Caesandro Kevinoza",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^21.3.2"
+    "@hapi/hapi": "^21.3.2",
+    "nanoid": "^3.3.6"
   },
   "devDependencies": {
     "eslint": "^8.46.0",
